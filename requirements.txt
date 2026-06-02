@@ -1,0 +1,15 @@
+requests
+beautifulsoup4
+pandas
+pdfplumber
+python-docx
+lxml
+openpyxl
+sqlalchemy
+html5lib
+scikit-learn
+joblib
+streamlit
+plotly
+python-pptx
+pytest

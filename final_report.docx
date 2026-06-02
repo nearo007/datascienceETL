@@ -1,0 +1,31 @@
+Final Report
+
+Projeto: Monitoramento de Preços de Produtos — IA identifica tendências
+
+Resumo do projeto
+- Tema: Monitoramento de preços de produtos com IA para identificar tendências de aumento/queda.
+- Fontes usadas: CSV de amostra (`sample_prices.csv`), extração via API/Web/PDF implementada (módulos em `etl/`).
+- Pipeline: `pipeline.py` executa extrações, transforma, concatena e salva outputs em `output/`.
+- Modelos: `models/price_regressor.pkl`, `models/price_classifier.pkl` (treinados com os dados de exemplo).
+
+Arquivos importantes
+- proposta_professor.md/.pdf/.docx — proposta para professor
+- pipeline.py — runner ETL
+- etl/ — scripts de extração, transformação e carga
+- app.py — Streamlit app para visualizar e prever
+- models/ — modelos gerados
+- output/ — outputs gerados (CSV, XLSX, DB, PDF)
+
+Como executar
+1) Instalar dependências:
+   pip install -r requirements.txt
+2) Rodar pipeline de coleta e geração de relatórios:
+   python pipeline.py
+3) Treinar (opcional) e salvar modelos:
+   python etl/train_model.py
+4) Rodar app Streamlit:
+   streamlit run app.py
+
+Observações finais
+- Para uso em produção, coletar mais histórico e usar APIs oficiais ou rotinas autorizadas para scraping.
+- Relatórios e exports foram gerados em `output/`.

@@ -1,0 +1,13 @@
+product_name,price,currency,store,url,extraction_date
+Dólar Americano (USD/BRL),5.0205,BRL,AwesomeAPI,https://economia.awesomeapi.com.br/USD-BRL,2026-06-02
+Euro (EUR/BRL),5.83431,BRL,AwesomeAPI,https://economia.awesomeapi.com.br/EUR-BRL,2026-06-02
+Libra Esterlina (GBP/BRL),6.75934,BRL,AwesomeAPI,https://economia.awesomeapi.com.br/GBP-BRL,2026-06-02
+Peso Argentino (ARS/BRL),0.00352063,BRL,AwesomeAPI,https://economia.awesomeapi.com.br/ARS-BRL,2026-06-02
+Dólar Canadense (CAD/BRL),3.62514,BRL,AwesomeAPI,https://economia.awesomeapi.com.br/CAD-BRL,2026-06-02
+Dólar Australiano (AUD/BRL),3.60191,BRL,AwesomeAPI,https://economia.awesomeapi.com.br/AUD-BRL,2026-06-02
+Arroz 5kg,20.5,,Supermercado A,,2026-05-20
+Arroz 5kg,22.0,,Supermercado A,,2026-05-27
+Leite UHT 1L,3.5,,Supermercado B,,2026-05-25
+Óleo de soja 900ml,8.9,,Supermercado A,,2026-05-26
+Açúcar 1kg,4.2,,Supermercado C,,2026-05-22
+Smartphone iPhone 14 128GB,4500.0,,Loja X,,2026-05-15

@@ -1,0 +1,18 @@
+Assunto: Proposta de Projeto aprovada - Monitoramento de Preços de Produtos
+
+Prezado(a) Professor(a) [Nome],
+
+Encaminho em anexo o pacote com a proposta aprovada e os entregáveis do projeto:
+- proposta_professor.* (MD/DOCX/PDF)
+- final_report.docx
+- presentation.pptx
+- pasta output/ com exemplos (CSV, XLSX, prices.db, report.pdf)
+- models/ com modelos treinados
+
+Resumo: Tema "Monitoramento de preços de produtos — IA identifica tendências de aumento/queda". O projeto implementa o ciclo ETL (API, CSV, web scraping, PDF), transformação, treinamento de modelos (regressor e classificador), e gera cargas em Excel, SQLite e PDF. Também inclui um app Streamlit para visualização e previsões.
+
+Peço, por favor, sua validação para prosseguir com a entrega final ou ajustes solicitados.
+
+Atenciosamente,
+[Seu Nome]
+[Curso / Matrícula]
